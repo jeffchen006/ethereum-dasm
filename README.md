@@ -1,4 +1,9 @@
 # ethereum-dasm 
+
+Worth study for beginners. 
+We can run a few examples to get a better understanding of how EVM executes.
+
+
 ethereum evm bytecode disassembler with static- and dynamic-analysis and function signature lookup
 
 [https://github.com/ethereum/] [https://www.ethereum.org/]
